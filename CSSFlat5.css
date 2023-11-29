@@ -63,14 +63,17 @@
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
 }
-.a{
+.a {
 color:green;
+  font-family: "Old English Text MT", sans-serif;
 }
-.b{
+.b {
 color:red;
+  font-family: "Old English Text MT", sans-serif;
 }
-.c{
+.c {
 color:blue;
+  font-family: "Old English Text MT", sans-serif;
 }
 #flat .title {
  background: white;
